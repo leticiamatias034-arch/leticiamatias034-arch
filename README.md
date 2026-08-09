@@ -46,7 +46,17 @@ Atualmente, estou aprimorando meus conhecimentos em **desenvolvimento Front-end*
 🌱 Aprendendo e evoluindo um projeto de cada vez
 
 ---
+---
 
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/leticiamatias034-arch/leticiamatias034-arch/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub">
+
+</div>
+
+---
 ## 📸 Projeto em destaque
 
 <div align="center">
